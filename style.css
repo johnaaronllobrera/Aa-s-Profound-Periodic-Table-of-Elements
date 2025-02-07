@@ -334,7 +334,7 @@ ul {
 	}
 	
 #H {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
     overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -345,13 +345,13 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/hydrogen.jpg); 
+	background-image: url(hydrogen.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;
 	}
 #He {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -362,13 +362,13 @@ ul {
 	color: #759fff;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/helium.jpg); 
+	background-image: url(helium.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #759fff;
 	}
 #Li {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -379,13 +379,13 @@ ul {
 	color: #ecbe59;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Lithium.jpg); 
+	background-image: url(Lithium.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Be {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -396,13 +396,13 @@ ul {
 	color: #dee955;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Beryllium.jpg); 
+	background-image: url(Beryllium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #dee955;
 	}
 #B {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -413,13 +413,13 @@ ul {
 	color: #3aefb6;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/boron.jpg); 
+	background-image: url(boron.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;
 	}
 #C {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -430,12 +430,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/carbon.png); 
+	background-image: url(carbon.png); 
 	background-size: 60px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #N {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -446,12 +446,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/nitrogen.jpg); 
+	background-image: url(nitrogen.jpg); 
 	background-size: 250px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #O {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -462,12 +462,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/oxygen.jpg); 
+	background-image: url(oxygen.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #F {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -478,12 +478,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/fluorine.jpg); 
+	background-image: url(fluorine.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Ne {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -494,13 +494,13 @@ ul {
 	color: #759fff;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/neon.jog.jpg); 
+	background-image: url(neon.jog.jpg); 
 	background-size: 70px;
 	background-position: center;
 	box-shadow: 0 0 10px #759fff;
 	}
 #Na {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -511,13 +511,13 @@ ul {
 	color: #ecbe59;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/sodium.jpg); 
+	background-image: url(sodium.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Mg {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -528,13 +528,13 @@ ul {
 	color: #dee955;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/magnesium.jpg); 
+	background-image: url(magnesium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #dee955;
 	}
 #Al {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -545,12 +545,12 @@ ul {
 	color: #4cddf3;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/aluminium.jpg); 
+	background-image: url(aluminium.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Si {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -561,12 +561,12 @@ ul {
 	color: #3aefb6;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/silicon.jpg); 
+	background-image: url(silicon.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #P {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -577,12 +577,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/phosphorus.jpg); 
+	background-image: url(phosphorus.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #S {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -593,12 +593,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/sulfur.jpg); 
+	background-image: url(sulfur.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Cl {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -609,12 +609,12 @@ ul {
 	color: #52ee61;
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/chlorine.jpg); 
+	background-image: url(chlorine.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Ar {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -624,12 +624,12 @@ ul {
 #Ar:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Argon.jpg); 
+	background-image: url(Argon.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #759fff;}
 #K {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -639,13 +639,13 @@ ul {
 #K:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/potassium.jpg); 
+	background-image: url(potassium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Ca {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -655,13 +655,13 @@ ul {
 #Ca:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/calcium.jpg); 
+	background-image: url(calcium.jpg); 
 	background-size: 130px;
 	background-position: center;
 	box-shadow: 0 0 10px #dee955;
 	}
 #Sc {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -671,13 +671,13 @@ ul {
 #Sc:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/scandium.jpg); 
+	background-image: url(scandium.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;
 	}
 #Ti {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -687,12 +687,12 @@ ul {
 #Ti:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/titanium.jpg); 
+	background-image: url(titanium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #V {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -702,12 +702,12 @@ ul {
 #V:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/vanadium.jpg); 
+	background-image: url(vanadium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Cr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -717,13 +717,13 @@ ul {
 #Cr:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/chromium.jpg); 
+	background-image: url(chromium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;
 	}
 #Mn {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -733,12 +733,12 @@ ul {
 #Mn:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/manganese.jpg); 
+	background-image: url(manganese.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Fe {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -748,12 +748,12 @@ ul {
 #Fe:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/iron.png); 
+	background-image: url(iron.png); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Co{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -763,12 +763,12 @@ ul {
 #Co:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/cobalt.jpg); 
+	background-image: url(cobalt.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ni{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -778,12 +778,12 @@ ul {
 #Ni:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/nickel.jpg); 
+	background-image: url(nickel.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Cu{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -793,12 +793,12 @@ ul {
 #Cu:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/copper.jpg); 
+	background-image: url(copper.jpg); 
 	background-size: 250px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Zn{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -808,12 +808,12 @@ ul {
 #Zn:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/zinc.jpg); 
+	background-image: url(zinc.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ga {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -823,12 +823,12 @@ ul {
 #Ga:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/gallium.jpg); 
+	background-image: url(gallium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Ge {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -838,12 +838,12 @@ ul {
 #Ge:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/germanium.jpg); 
+	background-image: url(germanium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #As {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -853,12 +853,12 @@ ul {
 #As:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/arsenic.jpg); 
+	background-image: url(arsenic.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #Se {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -868,12 +868,12 @@ ul {
 #Se:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/selenium.jpg); 
+	background-image: url(selenium.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Br {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -883,12 +883,12 @@ ul {
 #Br:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/bromine.jpg); 
+	background-image: url(bromine.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Kr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -898,12 +898,12 @@ ul {
 #Kr:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/krypton.jpg); 
+	background-image: url(krypton.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #759fff;}
 #Rb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -913,13 +913,13 @@ ul {
 #Rb:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Rb.jpg); 
+	background-image: url(Rb.jpg); 
 	background-size: 180px;
 	background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Sr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -929,13 +929,13 @@ ul {
 #Sr:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Sr.jpg); 
+	background-image: url(Sr.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #dee955;
 	}
 #Y {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -945,12 +945,12 @@ ul {
 #Y:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Y.jpg); 
+	background-image: url(Y.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Zr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -960,12 +960,12 @@ ul {
 #Zr:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Zr.jpg); 
+	background-image: url(Zr.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Nb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -975,12 +975,12 @@ ul {
 #Nb:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Nb.jpg); 
+	background-image: url(Nb.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Mo {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -990,12 +990,12 @@ ul {
 #Mo:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Mo.jpg); 
+	background-image: url(Mo.jpg); 
 	background-size: 120px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Tc {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1005,12 +1005,12 @@ ul {
 #Tc:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Tc.jpg); 
+	background-image: url(Tc.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ru {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1020,12 +1020,12 @@ ul {
 #Ru:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Ru.jpg); 
+	background-image: url(Ru.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Rh{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1035,12 +1035,12 @@ ul {
 #Rh:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Rh.jpg); 
+	background-image: url(Rh.jpg); 
 	background-size: 150px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Pd{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1050,12 +1050,12 @@ ul {
 #Pd:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Pd.jpg); 
+	background-image: url(Pd.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ag{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1065,12 +1065,12 @@ ul {
 #Ag:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Ag.jpg); 
+	background-image: url(Ag.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Cd{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1080,12 +1080,12 @@ ul {
 #Cd:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Cd.jpg); 
+	background-image: url(Cd.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #In {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1095,12 +1095,12 @@ ul {
 #In:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/In.jpg); 
+	background-image: url(In.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Sn {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1110,12 +1110,12 @@ ul {
 #Sn:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Sn.jpg); 
+	background-image: url(Sn.jpg); 
 	background-size: 100px;
 	background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Sb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -1125,12 +1125,12 @@ ul {
 #Sb:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Sb.jpg); 
+	background-image: url(Sb.jpg); 
 	background-size: 300px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #Te {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -1140,12 +1140,12 @@ ul {
 #Te:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Te.jpg); 
+	background-image: url(Te.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #I {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #52ee61;
 	border: solid 3px;
@@ -1155,12 +1155,12 @@ ul {
 #I:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/I.jpg); 
+	background-image: url(I.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #52ee61;}
 #Xe {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -1170,12 +1170,12 @@ ul {
 #Xe:hover {
 	text-shadow: 0 1px 1px black;
 	transform: scale(2);
-	background-image: url(Period/Xe.jpg); 
+	background-image: url(Xe.jpg); 
 	background-size: 200px;
 	background-position: center;
 	box-shadow: 0 0 10px #759fff;}
 #Cs {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -1183,11 +1183,11 @@ ul {
 	transition: transform .1s
 	}
 #Cs:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Cs.jpg); background-size: 280px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Cs.jpg); background-size: 280px; background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Ba {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -1195,10 +1195,10 @@ ul {
 	transition: transform .1s
 	}
 #Ba:hover {
-	text-shadow: 0 1px 1px black; box-shadow: 0 0 10px #dee955; transform: scale(2); background-image: url(Period/Ba.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; box-shadow: 0 0 10px #dee955; transform: scale(2); background-image: url(Ba.jpg); background-size: 200px; background-position: center;
 	}
 #Ln {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #7e455d;
 	border: solid 3px;
@@ -1208,7 +1208,7 @@ ul {
     cursor:not-allowed;
  }
 #Hf {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1216,10 +1216,10 @@ ul {
 	transition: transform .1s
 	}
 #Hf:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Hf.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Hf.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ta {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1227,10 +1227,10 @@ ul {
 	transition: transform .1s
 	}
 #Ta:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ta.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ta.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #W {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1238,10 +1238,10 @@ ul {
 	transition: transform .1s;
 	box-shadow: 0 0 10px #fd8673;}
 #W:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/W.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(W.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Re {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1249,10 +1249,10 @@ ul {
 	transition: transform .1s;
 	}
 #Re:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Re.jpg); background-size: 100px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Re.jpg); background-size: 100px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Os {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1260,10 +1260,10 @@ ul {
 	transition: transform .1s
 	}
 #Os:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Os.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Os.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Ir{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1271,10 +1271,10 @@ ul {
 	transition: transform .1s;
 	}
 #Ir:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ir.jpg); background-size: 120px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ir.jpg); background-size: 120px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Pt{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1282,10 +1282,10 @@ ul {
 	transition: transform .1s
 	}
 #Pt:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pt.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pt.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Au{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1293,10 +1293,10 @@ ul {
 	transition: transform .1s;
 	}
 #Au:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Au.jpg); background-size: 140px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Au.jpg); background-size: 140px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Hg{
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1304,10 +1304,10 @@ ul {
 	transition: transform .1s;
 	}
 #Hg:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Hg.jpg); background-size: 100px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Hg.jpg); background-size: 100px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Tl {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1315,10 +1315,10 @@ ul {
 	transition: transform .1s
 	}
 #Tl:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Tl.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Tl.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Pb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1326,10 +1326,10 @@ ul {
 	transition: transform .1s
 	}
 #Pb:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pb.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pb.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Bi {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1337,10 +1337,10 @@ ul {
 	transition: transform .1s
 	}
 #Bi:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Bi.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Bi.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Po {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1348,10 +1348,10 @@ ul {
 	transition: transform .1s;
 	box-shadow: 0 0 10px #4cddf3;}
 #Po:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Po.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Po.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #At {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #3aefb6;
 	border: solid 3px;
@@ -1359,10 +1359,10 @@ ul {
 	transition: transform .1s
 	}
 #At:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/At.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(At.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #3aefb6;}
 #Rn {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #759fff;
 	border: solid 3px;
@@ -1370,10 +1370,10 @@ ul {
 	transition: transform .1s
 	}
 #Rn:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Rn.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Rn.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #759fff;}
 #Fr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ecbe59;
 	border: solid 3px;
@@ -1381,11 +1381,11 @@ ul {
 	transition: transform .1s
 	}
 #Fr:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Fr.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Fr.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ecbe59;
 	}
 #Ra {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #dee955;
 	border: solid 3px;
@@ -1393,10 +1393,10 @@ ul {
 	transition: transform .1s;
 	}
 #Ra:hover {
-	text-shadow: 0 1px 1px black; box-shadow: 0 0 10px #dee955; transform: scale(2); background-image: url(Period/Ra.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; box-shadow: 0 0 10px #dee955; transform: scale(2); background-image: url(Ra.jpg); background-size: 200px; background-position: center;
 	}
 #An {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #6b4c72;
 	border: solid 3px;
@@ -1406,7 +1406,7 @@ ul {
     cursor:not-allowed;
  }
 #Rf {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1414,10 +1414,10 @@ ul {
 	transition: transform .1s
 	}
 #Rf:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Rf.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Rf.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Db {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1425,10 +1425,10 @@ ul {
 	transition: transform .1s
 	}
 #Db:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Db.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Db.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Sg {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1436,10 +1436,10 @@ ul {
 	transition: transform .1s
 	}
 #Sg:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Sg.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Sg.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Hf {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1447,10 +1447,10 @@ ul {
 	transition: transform .1s
 	}
 #Hf:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Hf.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Hf.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Bh {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1458,10 +1458,10 @@ ul {
 	transition: transform .1s
 	}
 #Bh:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Bh.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Bh.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Hs {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1469,10 +1469,10 @@ ul {
 	transition: transform .1s
 	}
 #Hs:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Hs.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Hs.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Mt {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1480,10 +1480,10 @@ ul {
 	transition: transform .1s
 	}
 #Mt:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Mt.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Mt.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Ds {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1491,10 +1491,10 @@ ul {
 	transition: transform .1s
 	}
 #Ds:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ds.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ds.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Rg {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1502,10 +1502,10 @@ ul {
 	transition: transform .1s
 	}
 #Rg:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Rg.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Rg.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Cn {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #fd8673;
 	border: solid 3px;
@@ -1513,10 +1513,10 @@ ul {
 	transition: transform .1s
 	}
 #Cn:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Cn.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Cn.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #fd8673;}
 #Nh {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1524,10 +1524,10 @@ ul {
 	transition: transform .1s
 	}
 #Nh:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Nh.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Nh.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Fl {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #4cddf3;
 	border: solid 3px;
@@ -1535,10 +1535,10 @@ ul {
 	transition: transform .1s
 	}
 #Fl:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Fl.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Fl.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #4cddf3;}
 #Mc {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1546,10 +1546,10 @@ ul {
 	transition: transform .1s
 	}
 #Mc:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Mc.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Mc.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Lv {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1557,10 +1557,10 @@ ul {
 	transition: transform .1s
 	}
 #Lv:hover {
-	text-shadow: 0 0 1px black; transform: scale(2); background-image: url(Period/Lv.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 0 1px black; transform: scale(2); background-image: url(Lv.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Ts {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1568,10 +1568,10 @@ ul {
 	transition: transform .1s
 	}
 #Ts:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ts.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ts.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #Og {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #cccccc;
 	border: solid 3px;
@@ -1579,10 +1579,10 @@ ul {
 	transition: transform .1s
 	}
 #Og:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Og.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Og.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #cccccc;}
 #La {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1590,10 +1590,10 @@ ul {
 	transition: transform .1s
 	}
 #La:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/La.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(La.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Ce {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1601,20 +1601,20 @@ ul {
 	transition: transform .1s
 	}
 #Ce:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ce.jpg); background-size: 140px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ce.jpg); background-size: 140px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Pr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
 	text-shadow: 0 0 10px #ec77a3;
 	transition: transform .1s;}
 #Pr:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pr.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pr.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Nd {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1622,10 +1622,10 @@ ul {
 	transition: transform .1s
 	}
 #Nd:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Nd.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Nd.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Pm {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1633,10 +1633,10 @@ ul {
 	transition: transform .1s;
 	}
 #Pm:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pm.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pm.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Sm {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1644,10 +1644,10 @@ ul {
 	transition: transform .1s
 	}
 #Sm:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Sm.jpg); background-size: 140px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Sm.jpg); background-size: 140px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Eu {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1655,10 +1655,10 @@ ul {
 	transition: transform .1s
 	}
 #Eu:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Eu.jpg); background-size: 150px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Eu.jpg); background-size: 150px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Gd {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1666,10 +1666,10 @@ ul {
 	transition: transform .1s
 	}
 #Gd:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Gd.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Gd.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Tb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1677,10 +1677,10 @@ ul {
 	transition: transform .1s
 	}
 #Tb:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Tb.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Tb.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Dy {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1688,10 +1688,10 @@ ul {
 	transition: transform .1s
 	}
 #Dy:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Dy.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Dy.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Ho {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1699,10 +1699,10 @@ ul {
 	transition: transform .1s
 	}
 #Ho:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ho.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ho.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Er {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1710,10 +1710,10 @@ ul {
 	transition: transform .1s
 	}
 #Er:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Er.jpg); background-size: 170px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Er.jpg); background-size: 170px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Tm {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1721,10 +1721,10 @@ ul {
 	transition: transform .1s
 	}
 #Tm:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Tm.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Tm.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Yb {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1732,10 +1732,10 @@ ul {
 	transition: transform .1s
 	}
 #Yb:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Yb.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Yb.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Lu {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #ec77a3;
 	border: solid 3px;
@@ -1743,10 +1743,10 @@ ul {
 	transition: transform .1s
 	}
 #Lu:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Lu.jpg); background-size: 150px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Lu.jpg); background-size: 150px; background-position: center;
 	box-shadow: 0 0 10px #ec77a3;}
 #Ac {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1754,10 +1754,10 @@ ul {
 	transition: transform .1s;
 	}
 #Ac:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Ac.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Ac.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Th {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1765,10 +1765,10 @@ ul {
 	transition: transform .1s;
 	}
 #Th:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Th.jpg); background-size: 100px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Th.jpg); background-size: 100px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Pa {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1776,10 +1776,10 @@ ul {
 	transition: transform .1s;
 	}
 #Pa:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pa.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pa.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #U {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1787,10 +1787,10 @@ ul {
 	transition: transform .1s;
 	}
 #U:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/U.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(U.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Np {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1798,10 +1798,10 @@ ul {
 	transition: transform .1s;
 	}
 #Np:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Np.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Np.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Pu {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1809,10 +1809,10 @@ ul {
 	transition: transform .1s;
 	}
 #Pu:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Pu.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Pu.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Am {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1820,10 +1820,10 @@ ul {
 	transition: transform .1s;
 	}
 #Am:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Am.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Am.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Cm {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1831,10 +1831,10 @@ ul {
 	transition: transform .1s;
 	}
 #Cm:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Cm.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Cm.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Bk {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1842,10 +1842,10 @@ ul {
 	transition: transform .1s;
 	}
 #Bk:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Bk.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Bk.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Cf {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1853,10 +1853,10 @@ ul {
 	transition: transform .1s;
 	}
 #Cf:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Cf.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Cf.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Es {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1864,10 +1864,10 @@ ul {
 	transition: transform .1s;
 	}
 #Es:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Es.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Es.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Fm {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1875,10 +1875,10 @@ ul {
 	transition: transform .1s;
 	}
 #Fm:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Fm.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Fm.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;}
 #Md {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1886,11 +1886,11 @@ ul {
 	transition: transform .1s;
 	}
 #Md:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Md.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Md.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;
 	}
 #No {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1898,11 +1898,11 @@ ul {
 	transition: transform .1s;
 	}
 #No:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/No.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(No.jpg); background-size: 200px; background-position: center;
 	box-shadow: 0 0 10px #c686cc;
 	}
 #Lr {
-	background-image: url(Period/Elements.png);
+	background-image: url(Elements.png);
 	overflow: hidden;
 	color: #c686cc;
 	border: solid 3px;
@@ -1910,7 +1910,7 @@ ul {
 	transition: transform .1s;
 	}
 #Lr:hover {
-	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Period/Lr.jpg); background-size: 200px; background-position: center;
+	text-shadow: 0 1px 1px black; transform: scale(2); background-image: url(Lr.jpg); background-size: 200px; background-position: center;
 	box-shadow:	0 0 10px #c686cc;
 	}
 footer{
